@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/UI/WBP_Health.uasset",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/UI/Health.uasset",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/NewBlueprint.uasset",
+				"C:/Users/kevin/OneDrive/Desktop/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_.uasset"
+			]
+		}
+	]
+}
